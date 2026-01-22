@@ -2,7 +2,9 @@
 
 This repository is used to store radxa rock 5c Kaihong OS images.
 
-## Description of the v1.0 kaihongos image
+## Description of the v1.0 kaihongos Beta image
+
+kaihong_os_v1.0_Beta contains the following images：
 KHS_3588S_SBC-HDMI-EMMC-GPT-20260121-0329 is used for eMMC boot while also using HDMI output.
 
 KHS_3588S_SBC-HDMI-SD-GPT-20260121-0346 is used for sdcard boot while also using HDMI output.
